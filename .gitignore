@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Data and generated artifacts
+data/*.csv
+models/
+results/*
+!results/README.md
+!results/*.csv
+!results/figures/
+!results/figures/*.png
+!results/figures/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
