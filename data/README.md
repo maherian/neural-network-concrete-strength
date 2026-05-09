@@ -12,16 +12,16 @@ The dataset is not included in this repository, but it can be made available upo
 
 | Column | Description |
 | --- | --- |
-| `cement` | Cement content in the concrete mixture. |
-| `water` | Water content in the concrete mixture. |
-| `fly_ash` | Fly ash content. |
-| `slag` | Slag content. |
-| `micro_silica` | Micro-silica content. |
-| `nano_silica` | Nano-silica content. |
+| `cement` | Cement content in the concrete mixture, in kg/m3. |
+| `water` | Water content in the concrete mixture, in kg/m3. |
+| `fly_ash` | Fly ash content, in kg/m3. |
+| `slag` | Slag content, in kg/m3. |
+| `micro_silica` | Micro-silica content, in kg/m3. |
+| `nano_silica` | Nano-silica content, in kg/m3. |
 | `water_cement_ratio` | Water-to-cement ratio. |
-| `fine_aggregate` | Fine aggregate content. |
-| `coarse_aggregate` | Coarse aggregate content. |
-| `superplasticizer` | Superplasticizer dosage. |
+| `fine_aggregate` | Fine aggregate content, in kg/m3. |
+| `coarse_aggregate` | Coarse aggregate content, in kg/m3. |
+| `superplasticizer` | Superplasticizer dosage, in kg/m3. |
 | `age` | Curing age in days. |
 | `specific_surface_area` | Specific surface area (SSA) of the nano-silica, in m2/g. |
 | `compressive_strength` | Measured compressive strength in MPa. |
